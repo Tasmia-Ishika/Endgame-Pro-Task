@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Homework",
+        "description": "Assigned by physics teacher on monday,"
+    },
+    {
+        "id": 2,
+        "name": "Mock Test on Math",
+        "description": "Will complete all maths for preparation."
+    },
+    {
+        "id": 3,
+        "name": "Science Project",
+        "description": "Have to submit by next Tuesday."
+    }
+]
